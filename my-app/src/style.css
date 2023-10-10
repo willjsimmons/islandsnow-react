@@ -1,5 +1,9 @@
-footer
+.footer
 {
     background-color: #292929;
     color: white;
+}
+ul li
+{
+    list-style-type: none;
 }
